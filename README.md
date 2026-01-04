@@ -46,8 +46,9 @@ Canlı Veri Çekme (Data Fetching) ve API Yönetimi'ndeki Zorluklar:
 5-Yesoreyeram-infinity kullanıldı
 6-Dashbord.json oluşturulup kodlar paylaşılabilir hale geldi
 7-Loading... yazısı
-8-farklı renkler kullanılarak bir artış-azalış tablosunun vurgulanması
-9-github paylaşıldı
+8-Sağ tarafta 7 günlük değişimi gösteren ekstra bir chart olması
+9-farklı renkler kullanılarak bir artış-azalış tablosunun vurgulanması
+10-github paylaşıldı
 
 -Hocam aklıma gelen bonuslar şu an bunlar özellikle sizin tavsiyenizle Yesoreyeram-infinity kullanımı ve data source'dan gelen veriyi panel pluginin içinde kullanıp öyle aktarılması ve dasboard.json oluşturup paylaşılabilir hale gelmesi bu projede yaptığım en can alıcı noktalar ve beni de en çok zorlayan noktalar.
   
